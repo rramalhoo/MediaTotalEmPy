@@ -1,1 +1,2 @@
-start py app.py
+@echo off
+py app.py
